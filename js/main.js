@@ -13,7 +13,7 @@ $(document).ready(function(){
     "You're slower than a slow cooker",
     "You're slower than a 1 legged dog on tranquilizers",
     "You're slower than Daenerys Targaryen on her way to Westeros",
-    "You gotta get those fingers to the gym asap my nigga! You too slow!",
+    "You gotta get those fingers to the gym asap! You too slow!",
     "You've got some supreme slownest in those fingers son! You gotta do some finger cardio!",
     "You've got limitted edition slow fingers! go claim your Ginnes record!",
   ]
